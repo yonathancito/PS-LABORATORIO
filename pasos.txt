@@ -1,0 +1,12 @@
+click derecho
+git bash
+------
+git init
+ir a github y crear una carpeta REPOSITORIO
+copiamos el enlace y lo ponemos a la consola git atesedido de
+git remote add origin _______________________.git
+-------------------------------
+
+.gitignore
+
+
