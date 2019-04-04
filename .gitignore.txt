@@ -1,5 +1,7 @@
 .vscode/ipch/*
 .vscode/*
+.vscode
+.vscode\ipch\*.*
 !.vscode/settings.json
 
 !.vscode/tasks.json
